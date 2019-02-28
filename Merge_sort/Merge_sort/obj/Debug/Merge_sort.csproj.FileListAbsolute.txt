@@ -1,0 +1,7 @@
+D:\Projects\sorting_algorithm\Merge_sort\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe.config
+D:\Projects\sorting_algorithm\Merge_sort\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe
+D:\Projects\sorting_algorithm\Merge_sort\Merge_sort\Merge_sort\bin\Debug\Merge_sort.pdb
+D:\Projects\sorting_algorithm\Merge_sort\Merge_sort\Merge_sort\obj\Debug\Merge_sort.csprojResolveAssemblyReference.cache
+D:\Projects\sorting_algorithm\Merge_sort\Merge_sort\Merge_sort\obj\Debug\Merge_sort.csproj.CoreCompileInputs.cache
+D:\Projects\sorting_algorithm\Merge_sort\Merge_sort\Merge_sort\obj\Debug\Merge_sort.exe
+D:\Projects\sorting_algorithm\Merge_sort\Merge_sort\Merge_sort\obj\Debug\Merge_sort.pdb
