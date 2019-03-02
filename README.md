@@ -40,4 +40,4 @@
  수치에 비례하게 원소의 색을 표현
 
 <img src="./images/visualization_.png" alt="" width="250"/>
-<img src="./images/visualization.png" alt="" width="250"/>
+<img src="./images/visualization_.png" alt="" width="250"/>
